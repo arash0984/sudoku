@@ -2,7 +2,9 @@
 
 An Implementation Of Sudoku Solver For Android With Java
 
-
+## images
+<img src="https://github.com/arash0984/sudoku/blob/main/images/1.png" alt="image 1">
+<img src="https://github.com/arash0984/sudoku/blob/main/images/2.png" alt="image 2">
 
 ### Step 1 (Main Activity)
 - download games from https://sharetext.me/raw/zgzqhgvvqx
